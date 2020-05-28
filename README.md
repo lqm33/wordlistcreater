@@ -1,2 +1,1 @@
-# wordlistcreater
-wordlistcreater
+İnputları kullanarak kelimeleri birleştirir.
